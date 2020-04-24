@@ -5,7 +5,7 @@ Propósito: Ejercitar utilización de git utilizando el flujo de trabajo "Fork +
 ## Detalles de la actividad
 
 > **IMPORTANTE**
-> 
+>
 > No van a poder actualizar este repo, necesitarán crear una copia del repositorio utilizando el `Fork`.
 
 0. Realizar el fork de "este repositorio".
@@ -63,27 +63,7 @@ Solo listamos número de legajos para mantener la privacidad de los alumnos
 | 35223       |                                       |              |
 | 41382       |                                       |              |
 | 30963       |                                       |              |
-| 34228       |                                       |              |
+| 34228       |Ivan Pavon                             |24-04-2020    |
 | 35171       |                                       |              |
 | 40756       |                                       |              |
 | 38868       |                                       |              |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
