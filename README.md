@@ -66,7 +66,7 @@ Solo listamos número de legajos para mantener la privacidad de los alumnos
 | 34228       |                                       |              |
 | 35171       |                                       |              |
 | 40756       |                                       |              |
-| 38868       |                                       |              |
+| 38868       | Juan Cruz Vincenti                    | 27-04-2020   |
 
 
 
