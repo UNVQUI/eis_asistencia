@@ -39,7 +39,7 @@ Solo listamos número de legajos para mantener la privacidad de los alumnos
 | :----: | :-----------------------------------: | :--------:   |
 | 31251  |                                       |              |
 | 34627  |                                       |              |
-| 35570  |                                       |              |
+| 35570  |  Ignacio Chelasco                     |              |
 | 42553  |                                       |              |
 | 40629  |                                       |              |
 | 39974  |                                       |              |
