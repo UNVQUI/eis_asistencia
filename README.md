@@ -63,7 +63,7 @@ Solo listamos número de legajos para mantener la privacidad de los alumnos
 | 35223       |                                       |              |
 | 41382       |                                       |              |
 | 30963       |                                       |              |
-| 34228       |Ivan Daniel Pavon                      |              |
+| 34228       |Ivan Daniel Pavon                      |24-04-2020    |
 | 35171       |                                       |              |
 | 40756       |                                       |              |
 | 38868       |                                       |              |
