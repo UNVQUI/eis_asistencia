@@ -43,7 +43,7 @@ Solo listamos número de legajos para mantener la privacidad de los alumnos
 | 42553  |                                       |              |
 | 40629  |                                       |              |
 | 39974  |                                       |              |
-| 42237  |                                       |              |
+| 42237  |     Duglas Javier Español Coloma      |              |
 | 37859  |                                       |              |
 | 34919  |                                       |              |
 | 39817  |                                       |              |
