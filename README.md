@@ -61,7 +61,7 @@ Solo listamos número de legajos para mantener la privacidad de los alumnos
 | 40014       |                                       |              |
 | 42927       |                                       |              |
 | 35223       |                                       |              |
-| 41382       |                                       |              |
+| 41382       | Andres Mora                           |              |
 | 30963       |                                       |              |
 | 34228       |                                       |              |
 | 35171       |                                       |              |
