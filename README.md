@@ -56,7 +56,7 @@ Solo listamos número de legajos para mantener la privacidad de los alumnos
 | :----:      | :-----------------------------------: | :--------:   |
 | 34461       | Nicolas Bellini                       |  38842181    |
 | 34488       |                                       |              |
-| Intercambio |                                       |              |
+| Intercambio | Ricardo Caceres S.                    |              |
 | 39733       |                                       |              |
 | 40014       |Federico Garetti                       |26-04-2020    |
 | 42927       |                                       |              |
