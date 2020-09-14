@@ -19,7 +19,7 @@ Propósito: Ejercitar utilización de git utilizando el flujo de trabajo "Fork +
 
 | Legajo | Nombre y Apellido                     | "fecha"        |
 | :----: | :-----------------------------------: | :------------: |
-| 12345  | Micky Vainilla                        | <fecha-commit> |
+| 12345  | Micky Vainilla                        | *fecha-commit* |
 
 
 
