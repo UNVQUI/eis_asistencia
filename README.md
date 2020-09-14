@@ -36,7 +36,7 @@ Solo listamos número de legajos para mantener la privacidad de los alumnos
 
 
 | Legajo | Nombre y Apellido                     | 07/09/2020 |
-| :----: | :-----------------------------------: | :--------: |
+| :39915:| :Nelson Gabriel Gonzalez------------: | 14/09/2020: |
 |        |                                       |            |
 
 ## Lista de alumnos Comision #2
