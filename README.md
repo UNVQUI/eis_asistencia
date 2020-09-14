@@ -39,6 +39,7 @@ Solo listamos número de legajos para mantener la privacidad de los alumnos
 | :----: | :-----------------------------------: | :--------: |
 | 31420  | Cristian Gonzalez                     | 09/09/2020 |
 |        |                                       |            |
+| 45285  | Ignacio Mendez                        | 09/09/2020 |
 
 ## Lista de alumnos Comision #2
 
