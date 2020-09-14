@@ -43,5 +43,5 @@ Solo listamos número de legajos para mantener la privacidad de los alumnos
 
 | Legajo | Nombre y Apellido                     | 07/09/2020 |
 | :----: | :-----------------------------------: | :--------: |
-| 39383  |                                       |            |
+| 39383  | Matías Bianchi                        |            |
 
