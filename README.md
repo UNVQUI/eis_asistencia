@@ -35,10 +35,10 @@ Solo listamos número de legajos para mantener la privacidad de los alumnos
 
 | Legajo | Nombre y Apellido | 07/09/2020 |
 | :----: | :---------------: | :--------: |
-|        |                   |            |
+| 25947  | Gustavo Barreiro  |            |
 
 ## Lista de alumnos Comision #2
 
 | Legajo | Nombre y Apellido | 07/09/2020 |
 | :----: | :---------------: | :--------: |
-| 25947  |                   |            |
+|        |                   |            |
