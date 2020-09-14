@@ -38,6 +38,7 @@ Solo listamos número de legajos para mantener la privacidad de los alumnos
 | Legajo | Nombre y Apellido                     | 07/09/2020 |
 | :----: | :-----------------------------------: | :--------: |
 | 29776  |  Leandro Platero                      |            |
+| 45285  | Ignacio Mendez                        | 09/09/2020 |
 
 ## Lista de alumnos Comision #2
 
