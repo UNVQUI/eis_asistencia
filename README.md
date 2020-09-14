@@ -15,6 +15,14 @@ Propósito: Ejercitar utilización de git utilizando el flujo de trabajo "Fork +
 4. Subir el branch `<legajo>` al repositorio remoto de su cuenta (repositorio creado en el paso 0).
 5. Realizar un pedido de cambio (PR) para poder mezclar el branch `<legajo>` -> `<master>`
 
+### Ejemplo de carga:
+
+| Legajo | Nombre y Apellido                     | "fecha"        |
+| :----: | :-----------------------------------: | :------------: |
+| 12345  | Micky Vainilla                        | <fecha-commit> |
+
+
+
 ## Forma de entrega:
 
 Para hacer la entrega de la actividad en el campus de la materia van a necesitar agregar el link al PR que contiene lo que se detalla en el punto 3 del apartado anterior (aquí finaliza su tarea).
