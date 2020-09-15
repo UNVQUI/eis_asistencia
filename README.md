@@ -43,5 +43,5 @@ Solo listamos número de legajos para mantener la privacidad de los alumnos
 
 | Legajo | Nombre y Apellido                     | 07/09/2020 |
 | :----: | :-----------------------------------: | :--------: |
-|        |                                       |            |
+| 36859  | Ituarte Federico                      | 12/09/2020 |
 
