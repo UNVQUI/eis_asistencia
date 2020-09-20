@@ -5,7 +5,7 @@ Propósito: Ejercitar utilización de git utilizando el flujo de trabajo "Fork +
 ## Detalles de la actividad
 
 > **IMPORTANTE**
-> 
+>
 > No van a poder actualizar este repo, necesitarán crear una copia del repositorio utilizando el `Fork`.
 
 0. Realizar el fork de "este repositorio".
@@ -27,7 +27,6 @@ El docente se encargará de realizar la mezcla.
 
 - Acuerden con sus compañeros como se van a distribuir los períodos en los cuales van a subir los cambios al archivo `README.md`.
 
-
 ## Lista de alumnos Comision #1
 
 **NOTA**
@@ -41,12 +40,11 @@ Solo listamos número de legajos para mantener la privacidad de los alumnos
 |        |                                       |            |
 | 45285  | Ignacio Mendez                        | 09/09/2020 |
 | 45328  | Martinez Nicolas                      |            |
+| 25947  | Gustavo Barreiro                      |            |
 
 ## Lista de alumnos Comision #2
 
 | Legajo | Nombre y Apellido                     | 07/09/2020 |
 | :----: | :-----------------------------------: | :--------: |
 | 39383  | Matías Bianchi                        | 14/09/2020 |
-
-
 
