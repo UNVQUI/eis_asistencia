@@ -37,6 +37,8 @@ Solo listamos número de legajos para mantener la privacidad de los alumnos
 
 | Legajo | Nombre y Apellido                     | 07/09/2020 |
 | :----: | :-----------------------------------: | :--------: |
+
+| 38765  | Camila Arciniega Marchini             |            |
 | 31420  | Cristian Gonzalez                     | 09/09/2020 |
 |        |                                       |            |
 | 45285  | Ignacio Mendez                        | 09/09/2020 |
