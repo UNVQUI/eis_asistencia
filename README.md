@@ -33,12 +33,18 @@ El docente se encargará de realizar la mezcla.
 
 Solo listamos número de legajos para mantener la privacidad de los alumnos
 
-| Legajo | Nombre y Apellido | 07/09/2020 |
-| :----: | :---------------: | :--------: |
-| 25947  | Gustavo Barreiro  |            |
+
+| Legajo | Nombre y Apellido                     | 07/09/2020 |
+| :----: | :-----------------------------------: | :--------: |
+| 31420  | Cristian Gonzalez                     | 09/09/2020 |
+|        |                                       |            |
+| 45285  | Ignacio Mendez                        | 09/09/2020 |
+| 45328  | Martinez Nicolas                      |            |
+| 25947  | Gustavo Barreiro                      |            |
 
 ## Lista de alumnos Comision #2
 
-| Legajo | Nombre y Apellido | 07/09/2020 |
-| :----: | :---------------: | :--------: |
-|        |                   |            |
+| Legajo | Nombre y Apellido                     | 07/09/2020 |
+| :----: | :-----------------------------------: | :--------: |
+| 39383  | Matías Bianchi                        | 14/09/2020 |
+
